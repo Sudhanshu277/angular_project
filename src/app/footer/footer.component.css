@@ -1,0 +1,137 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.carousel-caption{
+    color: #fff;
+    position: absolute;
+    top: 27%;
+    left:82px;
+    font-size:
+}
+.b{
+	margin-top: 30px;
+    visibility: visible;
+    color: rgb(0, 0, 0);
+    border-color: rgba(0, 0, 0, 0.75);
+    background-color: transparent;
+}
+
+body{
+  background-color: #f6f5f4;
+}
+
+
+  .main-footer{
+    	background: #020306f0;
+        padding: 50px;
+        color: #fff;
+    }
+
+   .u{
+    color: white;
+   }
+.apply{
+    float: right;
+}
+
+ .in{
+    float: left; border-radius: 1px;width: 65%
+ }
+ .inn{
+    float: left; border-radius: 1px;width: 28%
+ }
+
+ @media(max-width: 1000px)
+{
+    .in{
+   width: 100%
+ }
+ .inn{
+    width: 100%
+ }
+
+#icon1{
+  display: none
+}
+
+.sm{
+  border-radius: 3px; background-color: #2a3655;
+}
+
+}
+
+
+
+ .bl{
+    background: #0000009c; padding: 15px
+ }
+
+    .a{
+       background-color: #0000009c;
+
+    }
+
+    .nav-link{
+    font-weight: 500;
+    text-transform: uppercase;
+    padding: 10px;
+    color: white;
+    margin-right: 23px;
+   }
+
+   .c {
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.fab{
+    width: 47px;
+    color: grey;
+    font-size: 28px;
+
+}
+
+.is{
+    width: 7%;float: left;border-radius: 1px;
+}
+
+body{
+    /* font-family: 'Fraunces', serif;*/
+}
+
+.foot{
+    color: grey
+}
+
+.last{
+    font-size:13px;color: white;margin-top: 0px; margin-bottom: 0rem;
+}
+
+.l{
+    background-color: #000; padding-top: 30px; padding-bottom: 30px;
+}
+
+#se{
+  font-size: 20px;
+}
+
+.v{
+      border-left: 2px solid #2acbdb;
+        /*background: url(img/v.jfif) 0 0 no-repeat;*/
+}
+
+h1{
+  text-decoration:underline;font-family: 'Fraunces', serif;
+}
+.q{
+  background-image: url(https://cdn.pixabay.com/photo/2013/04/04/12/34/mountains-100367__340.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.t{
+  background-image: url(https://cdn.pixabay.com/photo/2019/04/24/11/27/flowers-4151900__340.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}

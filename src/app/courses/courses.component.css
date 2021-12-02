@@ -1,0 +1,7 @@
+.new{
+  background: url(/assets/image/course.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: none;
+  height: 400px;
+  }
